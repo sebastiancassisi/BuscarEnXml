@@ -1,0 +1,3361 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<release aplicacion='siniestros' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='../siniestros.xsd'>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181450197681-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181450197681</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181450197681</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228(1).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>191160087128-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191160087128</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191160087128</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (10).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>191160087127-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191160087127</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191160087127</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (11).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>191160087126-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191160087126</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191160087126</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (12).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>191160086961-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191160086961</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191160086961</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (13).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>191160086961-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191160086961</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191160086961</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (14).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>191160086932-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191160086932</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191160086932</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (15).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>182150197884-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>182150197884</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> CORRESPONDENCIA_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>182150197884</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>6</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (16).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181160197296-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181160197296</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> CORRESPONDENCIA_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181160197296</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>6</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (17).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181900198022-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181900198022</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> CORRESPONDENCIA_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181900198022</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>6</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (18).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181160197167-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181160197167</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181160197167</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (19).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>191890087152-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191890087152</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191890087152</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (2).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181170198104-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181170198104</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181170198104</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (20).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181890198064-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181890198064</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181890198064</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (21).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181100198196-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181100198196</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181100198196</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (23).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181150198151-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181150198151</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181150198151</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (24).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181100197289-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181100197289</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181100197289</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (25).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181170197974-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181170197974</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181170197974</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (26).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181100198352-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181100198352</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181100198352</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (27).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181100198196-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181100198196</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181100198196</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (28).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181150198262-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181150198262</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181150198262</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (29).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>191890087151-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191890087151</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191890087151</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (3).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181100197264-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181100197264</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181100197264</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (30).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181100197264-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181100197264</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181100197264</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (31).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181160197167-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181160197167</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181160197167</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (32).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181220197978-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181220197978</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181220197978</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (33).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181140197653-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181140197653</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181140197653</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (34).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181170197981-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181170197981</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181170197981</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (35).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>182150197884-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>182150197884</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>182150197884</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (36).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181900198022-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181900198022</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181900198022</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (37).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>182030198118-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>182030198118</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>182030198118</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (38).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>191140088770-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191140088770</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191140088770</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (39).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>191890087150-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191890087150</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191890087150</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (4).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181160197576-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181160197576</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181160197576</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (40).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181900197685-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181900197685</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181900197685</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (41).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>191140088738-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191140088738</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191140088738</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (42).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181890198064-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181890198064</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181890198064</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (43).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181220198096-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181220198096</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181220198096</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (44).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181070197371-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181070197371</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181070197371</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (45).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>181450194490-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181450194490</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>181450194490</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>18</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (46).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>191450088194-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191450088194</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> RECIBOS_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191450088194</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>3</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (47).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>191890087149-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191890087149</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191890087149</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (5).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>191890087148-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191890087148</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191890087148</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (6).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>191140086919-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191140086919</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191140086919</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (7).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>191160087130-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191160087130</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191160087130</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (8).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+<documento tipo='mpa_siniestro_c'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor>191160087129-1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191160087129</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo> 
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<documentos>
+<documento tipo='mpa_documentos'>
+<atributos>
+<atributo tipo='char' nombre='object_name'>
+<valores>
+<valor> INFORMACION GENERAL_Caja 782011540</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='nrosiniestro'>
+<valores>
+<valor>191160087129</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='compania'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='seccion'>
+<valores>
+<valor>19</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='ramo'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='categoria'>
+<valores>
+<valor>1</valor>
+</valores>
+</atributo>
+<atributo tipo='char' nombre='subcategoria'>
+<valores>
+<valor></valor>
+</valores>
+</atributo>
+</atributos>
+<contenidos>
+<contenido ruta='SSD1228 (9).tif' formato='tiff'></contenido>
+</contenidos>
+</documento>
+</documentos>
+</documento>
+</release>
